@@ -5,15 +5,18 @@ body {
     font-family: 'Poppins', sans-serif;
     background-color: #F3F1FF;
 }
-.top-players{
-margin-top: -30px;
+
+.top-players {
+    margin-top: -30px;
 }
-.h2{
-color:#562EFF;
+
+.h2 {
+    color: #562EFF;
 }
-.name{
-margin-left: 16px;
-font-size: 18px;
+
+.name {
+    margin-left: 16px;
+    font-size: 18px;
 }
 
 main {
@@ -36,7 +39,7 @@ main {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-row-gap: 30px;
-   
+
     /* grid-template-columns: repeat(1fr,1fr, 1fr); */
 }
 
@@ -49,14 +52,12 @@ main {
     width: 56px;
     height: 56px;
 }
+
 /* :horizontal */
-hr{
+hr {
     border: 1px solid #D1D1D1;
     margin-top: 25px;
 }
+
 /* tob blog */
 
-.blogs img{
-    width: 177px;
-    height: 117px;
-}
